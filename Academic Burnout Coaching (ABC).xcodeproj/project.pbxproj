@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		B85BE4302D1D1EA80000D279 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B85BE4172D1D1EA70000D279 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B85BE41E2D1D1EA70000D279;
+			remoteInfo = "Academic Burnout Coaching (ABC)";
+		};
+		B85BE43A2D1D1EA80000D279 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B85BE4172D1D1EA70000D279 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B85BE41E2D1D1EA70000D279;
+			remoteInfo = "Academic Burnout Coaching (ABC)";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B85BE41F2D1D1EA70000D279 /* Academic Burnout Coaching (ABC).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Academic Burnout Coaching (ABC).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B85BE42F2D1D1EA80000D279 /* Academic Burnout Coaching (ABC)Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Academic Burnout Coaching (ABC)Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B85BE4392D1D1EA80000D279 /* Academic Burnout Coaching (ABC)UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Academic Burnout Coaching (ABC)UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		B85BE4212D1D1EA70000D279 /* Academic Burnout Coaching (ABC) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Academic Burnout Coaching (ABC)";
+			sourceTree = "<group>";
+		};
+		B85BE4322D1D1EA80000D279 /* Academic Burnout Coaching (ABC)Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Academic Burnout Coaching (ABC)Tests";
+			sourceTree = "<group>";
+		};
+		B85BE43C2D1D1EA80000D279 /* Academic Burnout Coaching (ABC)UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Academic Burnout Coaching (ABC)UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B85BE41C2D1D1EA70000D279 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B85BE42C2D1D1EA80000D279 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B85BE4362D1D1EA80000D279 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B85BE4162D1D1EA70000D279 = {
+			isa = PBXGroup;
+			children = (
+				B85BE4212D1D1EA70000D279 /* Academic Burnout Coaching (ABC) */,
+				B85BE4322D1D1EA80000D279 /* Academic Burnout Coaching (ABC)Tests */,
+				B85BE43C2D1D1EA80000D279 /* Academic Burnout Coaching (ABC)UITests */,
+				B85BE4202D1D1EA70000D279 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B85BE4202D1D1EA70000D279 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B85BE41F2D1D1EA70000D279 /* Academic Burnout Coaching (ABC).app */,
+				B85BE42F2D1D1EA80000D279 /* Academic Burnout Coaching (ABC)Tests.xctest */,
+				B85BE4392D1D1EA80000D279 /* Academic Burnout Coaching (ABC)UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B85BE41E2D1D1EA70000D279 /* Academic Burnout Coaching (ABC) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B85BE4432D1D1EA80000D279 /* Build configuration list for PBXNativeTarget "Academic Burnout Coaching (ABC)" */;
+			buildPhases = (
+				B85BE41B2D1D1EA70000D279 /* Sources */,
+				B85BE41C2D1D1EA70000D279 /* Frameworks */,
+				B85BE41D2D1D1EA70000D279 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				B85BE4212D1D1EA70000D279 /* Academic Burnout Coaching (ABC) */,
+			);
+			name = "Academic Burnout Coaching (ABC)";
+			packageProductDependencies = (
+			);
+			productName = "Academic Burnout Coaching (ABC)";
+			productReference = B85BE41F2D1D1EA70000D279 /* Academic Burnout Coaching (ABC).app */;
+			productType = "com.apple.product-type.application";
+		};
+		B85BE42E2D1D1EA80000D279 /* Academic Burnout Coaching (ABC)Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B85BE4462D1D1EA80000D279 /* Build configuration list for PBXNativeTarget "Academic Burnout Coaching (ABC)Tests" */;
+			buildPhases = (
+				B85BE42B2D1D1EA80000D279 /* Sources */,
+				B85BE42C2D1D1EA80000D279 /* Frameworks */,
+				B85BE42D2D1D1EA80000D279 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B85BE4312D1D1EA80000D279 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B85BE4322D1D1EA80000D279 /* Academic Burnout Coaching (ABC)Tests */,
+			);
+			name = "Academic Burnout Coaching (ABC)Tests";
+			packageProductDependencies = (
+			);
+			productName = "Academic Burnout Coaching (ABC)Tests";
+			productReference = B85BE42F2D1D1EA80000D279 /* Academic Burnout Coaching (ABC)Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B85BE4382D1D1EA80000D279 /* Academic Burnout Coaching (ABC)UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B85BE4492D1D1EA80000D279 /* Build configuration list for PBXNativeTarget "Academic Burnout Coaching (ABC)UITests" */;
+			buildPhases = (
+				B85BE4352D1D1EA80000D279 /* Sources */,
+				B85BE4362D1D1EA80000D279 /* Frameworks */,
+				B85BE4372D1D1EA80000D279 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B85BE43B2D1D1EA80000D279 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B85BE43C2D1D1EA80000D279 /* Academic Burnout Coaching (ABC)UITests */,
+			);
+			name = "Academic Burnout Coaching (ABC)UITests";
+			packageProductDependencies = (
+			);
+			productName = "Academic Burnout Coaching (ABC)UITests";
+			productReference = B85BE4392D1D1EA80000D279 /* Academic Burnout Coaching (ABC)UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B85BE4172D1D1EA70000D279 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					B85BE41E2D1D1EA70000D279 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					B85BE42E2D1D1EA80000D279 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = B85BE41E2D1D1EA70000D279;
+					};
+					B85BE4382D1D1EA80000D279 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = B85BE41E2D1D1EA70000D279;
+					};
+				};
+			};
+			buildConfigurationList = B85BE41A2D1D1EA70000D279 /* Build configuration list for PBXProject "Academic Burnout Coaching (ABC)" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B85BE4162D1D1EA70000D279;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = B85BE4202D1D1EA70000D279 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B85BE41E2D1D1EA70000D279 /* Academic Burnout Coaching (ABC) */,
+				B85BE42E2D1D1EA80000D279 /* Academic Burnout Coaching (ABC)Tests */,
+				B85BE4382D1D1EA80000D279 /* Academic Burnout Coaching (ABC)UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B85BE41D2D1D1EA70000D279 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B85BE42D2D1D1EA80000D279 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B85BE4372D1D1EA80000D279 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B85BE41B2D1D1EA70000D279 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B85BE42B2D1D1EA80000D279 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B85BE4352D1D1EA80000D279 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B85BE4312D1D1EA80000D279 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B85BE41E2D1D1EA70000D279 /* Academic Burnout Coaching (ABC) */;
+			targetProxy = B85BE4302D1D1EA80000D279 /* PBXContainerItemProxy */;
+		};
+		B85BE43B2D1D1EA80000D279 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B85BE41E2D1D1EA70000D279 /* Academic Burnout Coaching (ABC) */;
+			targetProxy = B85BE43A2D1D1EA80000D279 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		B85BE4412D1D1EA80000D279 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B85BE4422D1D1EA80000D279 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B85BE4442D1D1EA80000D279 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Academic Burnout Coaching (ABC)/Preview Content\"";
+				DEVELOPMENT_TEAM = MRS3QK44J8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Abdullah-A.Academic-Burnout-Coaching--ABC-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B85BE4452D1D1EA80000D279 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Academic Burnout Coaching (ABC)/Preview Content\"";
+				DEVELOPMENT_TEAM = MRS3QK44J8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Abdullah-A.Academic-Burnout-Coaching--ABC-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		B85BE4472D1D1EA80000D279 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MRS3QK44J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Abdullah-A.Academic-Burnout-Coaching--ABC-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Academic Burnout Coaching (ABC).app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Academic Burnout Coaching (ABC)";
+			};
+			name = Debug;
+		};
+		B85BE4482D1D1EA80000D279 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MRS3QK44J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Abdullah-A.Academic-Burnout-Coaching--ABC-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Academic Burnout Coaching (ABC).app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Academic Burnout Coaching (ABC)";
+			};
+			name = Release;
+		};
+		B85BE44A2D1D1EA80000D279 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MRS3QK44J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Abdullah-A.Academic-Burnout-Coaching--ABC-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Academic Burnout Coaching (ABC)";
+			};
+			name = Debug;
+		};
+		B85BE44B2D1D1EA80000D279 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MRS3QK44J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Abdullah-A.Academic-Burnout-Coaching--ABC-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Academic Burnout Coaching (ABC)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B85BE41A2D1D1EA70000D279 /* Build configuration list for PBXProject "Academic Burnout Coaching (ABC)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B85BE4412D1D1EA80000D279 /* Debug */,
+				B85BE4422D1D1EA80000D279 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B85BE4432D1D1EA80000D279 /* Build configuration list for PBXNativeTarget "Academic Burnout Coaching (ABC)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B85BE4442D1D1EA80000D279 /* Debug */,
+				B85BE4452D1D1EA80000D279 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B85BE4462D1D1EA80000D279 /* Build configuration list for PBXNativeTarget "Academic Burnout Coaching (ABC)Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B85BE4472D1D1EA80000D279 /* Debug */,
+				B85BE4482D1D1EA80000D279 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B85BE4492D1D1EA80000D279 /* Build configuration list for PBXNativeTarget "Academic Burnout Coaching (ABC)UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B85BE44A2D1D1EA80000D279 /* Debug */,
+				B85BE44B2D1D1EA80000D279 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B85BE4172D1D1EA70000D279 /* Project object */;
+}
